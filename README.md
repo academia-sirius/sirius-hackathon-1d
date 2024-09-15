@@ -1,6 +1,5 @@
-# sirius-hackathon-1d
-## 🚀 Participe do Sirius Hackathon 2024! 🚀
-
+# 🚀 Participe do Sirius Hackathon 2024! 🚀
+### sirius-hackathon-1Edicao
 
 Você é apaixonado por programação e inovação? Esta é a sua chance de mostrar seu talento! Participe do Sirius Hackathon 2024 e desenvolva soluções incríveis para desafios reais em apenas 24 horas! 💻🎯
 - 🔹 Data: 16 de Setembro
